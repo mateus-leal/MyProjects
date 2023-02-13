@@ -14,4 +14,4 @@ VOLTANDO O ITEM PARA LISTA ATRAVÉS DE UMA SNACK BAR
 ![image](https://user-images.githubusercontent.com/78455439/218553778-94898cb1-3f51-48ee-a1eb-b6aafab9304f.png)
 
 
-E também esse aplicativo conta como o recurso de showDialog, SharedPreferences + JSON, DateFormat e etc
+E também esse aplicativo conta com o recurso de showDialog, SharedPreferences + JSON, DateFormat e etc.

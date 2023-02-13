@@ -11,3 +11,7 @@ REMOVENDO UM ITEM DA LISTA
 ![image](https://user-images.githubusercontent.com/78455439/218552429-7107f5c0-096d-4808-94c8-8ed070b5a891.png)
 
 VOLTANDO O ITEM PARA LISTA ATRAVÉS DE UMA SNACK BAR
+![image](https://user-images.githubusercontent.com/78455439/218553778-94898cb1-3f51-48ee-a1eb-b6aafab9304f.png)
+
+
+E também esse aplicativo conta como o recurso de showDialog, SharedPreferences + JSON, DateFormat e etc
